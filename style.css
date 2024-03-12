@@ -1,0 +1,30 @@
+.calculator {
+    position: absolute;
+    top: 130px;
+    bottom: 150px;
+    left: 500px;
+    right: 500px;
+    border: 10px solid black;
+    box-shadow: 40px 40px 10px gray;
+    border-radius: 8px;
+    padding: 50px;
+    width: 20%;
+}
+h1 {
+    text-align: center;
+}
+  
+form {
+    text-align: center;
+}
+  
+label, input, select {
+    display: inline;
+    margin-bottom: 10px;
+    align-items: center;
+}
+  
+button {
+    margin-top: 10px;
+    color: red;
+}
